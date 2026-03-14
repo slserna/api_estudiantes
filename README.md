@@ -1,5 +1,7 @@
 # 📚 API de Estudiantes — Flask + SQLite
-
+## Sara Lizbeth Serna Rodriguez
+## 1224100715
+## ><><><><><><><><><><<
 Proyecto educativo que enseña a conectar **Flask** con una **base de datos SQLite**
 y realizar operaciones básicas de almacenamiento y consulta.
 
